@@ -1,6 +1,10 @@
 # µOS++ packages
 
-Index of available packages:
+The µOS++ project is highly modular, with the code split over several Git repos.
+
+## xPack source packages
+
+The source packages, in alphabetical order:
 
 - [architecture-cortexm-xpack](https://github.com/micro-os-plus/architecture-cortexm-xpack) ![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/architecture-cortexm-xpack)
 - [architecture-riscv-xpack](https://github.com/micro-os-plus/architecture-riscv-xpack) ![GitHub package.json version](https://img.shields.io/github/package-json/v/micro-os-plus/architecture-riscv-xpack)
