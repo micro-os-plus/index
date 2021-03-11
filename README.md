@@ -32,6 +32,12 @@ The source packages, in alphabetical order:
 
 The **version** badge shows the package.json version in the stable branch (`xpack`), and the **tag** badge shows the latest tag by date.
 
+## Other repos
+
+- [helper-scripts](https://github.com/micro-os-plus/helper-scripts)
+
+To clone all source xPack repos on a new machine, use the [clone-and-link-all-git-repos.sh](https://github.com/micro-os-plus/helper-scripts/blob/master/README.md#clone-and-link-all-git-repossh) script.
+
 ## Badges
 
 Credit for the badges go to [Shields IO](https://shields.io).
